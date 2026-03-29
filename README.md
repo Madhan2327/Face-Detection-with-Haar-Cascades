@@ -201,12 +201,5 @@ else:
 <img width="384" height="457" alt="image" src="https://github.com/user-attachments/assets/4c82c18f-317e-46f0-bd38-099ef746c12e" />
 
 
-
-### Object Detection with MobileNet-SSD
-<img width="337" height="453" alt="image" src="https://github.com/user-attachments/assets/59dcd787-3229-4e62-86e7-8b4d360fbc19" />
-
-
-
-
 ## RESULT
 Thus to write a Python program using OpenCV to perform the following image manipulations was verified successfully.
